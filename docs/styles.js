@@ -539,7 +539,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /mnt/c/Users/fumas/OneDrive/fumasa.online/talk-about/src/styles.scss */"./src/styles.scss");
+module.exports = __webpack_require__(/*! /mnt/e/Sources/fumasa.online/talk-about/src/styles.scss */"./src/styles.scss");
 
 
 /***/ })
